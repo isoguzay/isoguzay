@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![isoguzay's GitHub stats](https://github-readme-stats.vercel.app/api?username=isoguzay&hide=contribs,prs)
+
+
 <!--
 **isoguzay/isoguzay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
